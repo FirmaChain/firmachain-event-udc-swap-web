@@ -3,6 +3,7 @@
 /dist
 /node_modules
 /logs
+/build
 
 package-lock.json
 npm-debug.log*
