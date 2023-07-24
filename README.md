@@ -1,4 +1,7 @@
 # **firmachain-event-udc-swap-web**
+![UDC swap event web](https://github.com/FirmaChain/firmachain-event-udc-swap-web/assets/93503020/4e4ef0cd-0013-4a24-9630-1a438d562e55)
+
+<br/>
 
 ## **Overview**
 The firmachain-event-udc-swap-web, developed for event purposes, is a DApp that provides the feature of swapping tokens received at offline events for FCT. Users can connect to the page via the DApps service from the logged-in FirmaStation mobile wallet, connect the wallet, and send the event tokens held in the wallet to the wallet after swapping for FCT.
